@@ -35,3 +35,8 @@ C:\Users\srlwa\source\repos\ArnoldApi\ArnoldApi\Arnold.Api\obj\Debug\netcoreapp3
 C:\Users\srlwa\source\repos\ArnoldApi\ArnoldApi\Arnold.Api\obj\Debug\netcoreapp3.1\Arnold.Api.pdb
 C:\Users\srlwa\source\repos\ArnoldApi\ArnoldApi\Arnold.Api\obj\Debug\netcoreapp3.1\Arnold.Api.genruntimeconfig.cache
 C:\Users\srlwa\source\repos\ArnoldApi\ArnoldApi\Arnold.Api\obj\Debug\netcoreapp3.1\Arnold.Api.csproj.CopyComplete
+C:\Users\srlwa\source\repos\ArnoldApi\ArnoldApi\Arnold.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\srlwa\source\repos\ArnoldApi\ArnoldApi\Arnold.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\srlwa\source\repos\ArnoldApi\ArnoldApi\Arnold.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\srlwa\source\repos\ArnoldApi\ArnoldApi\Arnold.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\srlwa\source\repos\ArnoldApi\ArnoldApi\Arnold.Api\obj\Debug\netcoreapp3.1\Arnold.Api.MvcApplicationPartsAssemblyInfo.cs
